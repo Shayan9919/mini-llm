@@ -1,7 +1,7 @@
 # Mini Language Model (Educational)
 
 This is a minimal from-scratch language model project.  
-It includes a simple tokenizer and a 2-layer Transformer trained on toy text data.
+It includes a simple tokenizer and a 2-layer Transformer trained on a sample text data.
 
 ## Features
 - Custom tokenizer with reserved tokens ([PAD], [UNK], [EOS])
