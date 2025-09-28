@@ -1,0 +1,6 @@
+Once upon a time there was a small language model.
+It learned from stories, poems, and conversations.
+The model tried to predict the next word in a sentence.
+Sometimes it was correct, sometimes it was wrong.
+With more training, the model became better at writing.
+Language models are fun to build and experiment with.
